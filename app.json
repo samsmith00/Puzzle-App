@@ -4,20 +4,20 @@
     "slug": "puzzle-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "/Users/samsmith/Desktop/PuzzleAppSR1/puzzle-app/assets/logo-images/puzzle-logo.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/logo-images/puzzle-logo.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#041421"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "/Users/samsmith/Desktop/PuzzleAppSR1/puzzle-app/assets/logo-images/puzzle-logo.png",
         "backgroundColor": "#ffffff"
       }
     },
